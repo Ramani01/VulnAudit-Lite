@@ -22,9 +22,7 @@ A lightweight system vulnerability scanner written in Python.
 - 📋 **Multiple Reports**: JSON and HTML report generation
 - ⌨️ **CLI Interface**: Comprehensive command-line argument support
 
-## Demo
 
-![Report Screenshot](https://raw.githubusercontent.com/yourusername/VulnAudit-Lite/main/screenshot.png)
 
 ## Requirements
 
